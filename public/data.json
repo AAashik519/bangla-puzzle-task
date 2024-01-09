@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "image": "./image/inna-gurina-JspLKUauwSI-unsplash.jpg",
+      "category": "Pizza",
+      "price": 250
+,      "description": "Classic pizza topped with tomato, mozzarella, and fresh basil."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Alfredo Pasta",
+      "image": "./image/sestrjevitovschii-ina-7zfQ6sbWVyE-unsplash.jpg",
+      "category": "Pasta",
+      "price": 320
+,      "description": "Creamy Alfredo sauce with grilled chicken served over pasta."
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian Sushi Roll",
+      "image": "./image/abillion-i4jrjvPQCXQ-unsplash.jpg",
+      "category": "Sushi",
+      "price": 150
+,      "description": "Colorful sushi roll with avocado, cucumber, and pickled radish."
+    },
+    {
+      "id": 4,
+      "name": "Grilled Salmon Salad",
+      "image": "./image/markus-spiske-_GM0Zvw3PzY-unsplash.jpg",
+      "category": "Salad",
+      "price": 180
+,      "description": "Fresh salad with grilled salmon, mixed greens, and citrus vinaigrette."
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Lava Cake",
+      "image": "./image/max-griss-Pzjez86SsvQ-unsplash.jpg",
+      "category": "Dessert",
+      "price": 390
+,      "description": "Decadent chocolate cake with a gooey molten center."
+    }
+  ]
+  
